@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+82 1085568569</p>
-    <p>Your City, State 12345</p>
     <i class="fa-solid fa-phone"></i> +82 10-8556-8569
     <br>
     <i class="fa-solid fa-location-dot"></i> Seoul, South Korea
